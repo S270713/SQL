@@ -1,3 +1,4 @@
+-- Создание таблицы clientsBank.
 
 CREATE TABLE clientsBank (
 	id          	SERIAL PRIMARY KEY,

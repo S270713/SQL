@@ -1,3 +1,4 @@
+-- Создание таблицы people.
 
 CREATE TABLE people (
 	id          	SERIAL PRIMARY KEY,
