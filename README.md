@@ -1,5 +1,3 @@
-# SQL
-
 QUIRIES:
 -- Запросы к таблицам people, clientsBank.
 -- Структура таблицы people:         id, firstName, surName, age, town, inn.
